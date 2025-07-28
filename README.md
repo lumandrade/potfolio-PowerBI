@@ -15,7 +15,7 @@ Análise de vendas, produtos e canais de distribuição no setor atacadista.
 
 ### 📈 Dashboard Bolsa de Valores  
 Visualização de ações, setores e desempenho de empresas no mercado financeiro.  
-🔗 [Ver projeto](./Dashboard_BolsaDeValores)  
+🔗 [Ver projeto](https://github.com/lumandrade/potfolio-PowerBI/tree/main/Portfolio_BI/Dashboard_BolsaDeValores)  
 🛠️ Tecnologias: Power BI, DAX, base histórica
 
 ---
