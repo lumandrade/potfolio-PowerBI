@@ -50,7 +50,7 @@ Visualização da população nas capitais brasileiras, com filtros por estado e
 
 ### 🚚 Dashboard Transportadora  
 Indicadores de entregas, atrasos e satisfação do cliente no setor logístico.  
-🔗 [Ver projeto](./Dashboard_Transportadora)  
+🔗 [Ver projeto](https://github.com/lumandrade/potfolio-PowerBI/tree/main/Portfolio_BI/Dashboard_Transportadora)  
 🛠️ Tecnologias: Power BI, DAX, segmentações
 
 ---
