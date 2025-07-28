@@ -57,7 +57,7 @@ Indicadores de entregas, atrasos e satisfação do cliente no setor logístico.
 
 ### 🛍️ Dashboard Vendas Amazon  
 Análise de desempenho de produtos vendidos na Amazon: avaliações, categorias e vendas totais.  
-🔗 [Ver projeto](./Dashboard_VendasAmazon)  
+🔗 [Ver projeto](https://github.com/lumandrade/potfolio-PowerBI/tree/main/Portfolio_BI/Dashboard_VendasAmazon)  
 🛠️ Tecnologias: Power BI, DAX, Power Query
 
 ---
