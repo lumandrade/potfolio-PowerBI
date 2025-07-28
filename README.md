@@ -29,7 +29,7 @@ Gerenciamento pessoal de despesas por categoria, período e forma de pagamento.
 
 ### 📊 Dashboard INPC  
 Evolução do Índice Nacional de Preços ao Consumidor, comparações entre anos e categorias.  
-🔗 [Ver projeto](https://github.com/lumandrade/potfolio-PowerBI/tree/main/Portfolio_BI/Dashboard_Intercambio)  
+🔗 [Ver projeto](https://github.com/lumandrade/potfolio-PowerBI/tree/main/Portfolio_BI/Dashboard_inpc)  
 🛠️ Tecnologias: Power BI, DAX
 
 ---
