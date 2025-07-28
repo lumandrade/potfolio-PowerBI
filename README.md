@@ -29,14 +29,14 @@ Gerenciamento pessoal de despesas por categoria, período e forma de pagamento.
 
 ### 📊 Dashboard INPC  
 Evolução do Índice Nacional de Preços ao Consumidor, comparações entre anos e categorias.  
-🔗 [Ver projeto](./Dashboard_inpc)  
+🔗 [Ver projeto](https://github.com/lumandrade/potfolio-PowerBI/tree/main/Portfolio_BI/Dashboard_Intercambio)  
 🛠️ Tecnologias: Power BI, DAX
 
 ---
 
 ### 🌎 Dashboard Intercâmbio  
 Análise de destinos, custos e perfis de estudantes em programas de intercâmbio.  
-🔗 [Ver projeto](./Dashboard_Intercambio)  
+🔗 [Ver projeto](https://github.com/lumandrade/potfolio-PowerBI/tree/main/Portfolio_BI/Dashboard_Intercambio)  
 🛠️ Tecnologias: Power BI, segmentações
 
 ---
