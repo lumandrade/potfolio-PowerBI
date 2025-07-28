@@ -8,7 +8,7 @@ Este repositório reúne dashboards interativos desenvolvidos no Power BI, com f
 
 ### 🛒 Dashboard Atacadista  
 Análise de vendas, produtos e canais de distribuição no setor atacadista.  
-🔗 [Ver projeto](./Dashboard_Atacadista)  
+🔗 [Ver projeto](https://github.com/lumandrade/potfolio-PowerBI/tree/main/Portfolio_BI/Dashboard_Atacadista)  
 🛠️ Tecnologias: Power BI, DAX, Power Query
 
 ---
