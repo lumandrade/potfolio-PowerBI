@@ -43,7 +43,7 @@ Análise de destinos, custos e perfis de estudantes em programas de intercâmbio
 
 ### 🧍‍♂️ Dashboard População por Capital  
 Visualização da população nas capitais brasileiras, com filtros por estado e região.  
-🔗 [Ver projeto](./Dashboard_PopulacaoCap)  
+🔗 [Ver projeto](https://github.com/lumandrade/potfolio-PowerBI/tree/main/Portfolio_BI/Dashboard_PopulacaoCap)  
 🛠️ Tecnologias: Power BI, mapas
 
 ---
