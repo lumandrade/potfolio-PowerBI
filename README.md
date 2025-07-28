@@ -22,7 +22,7 @@ Visualização de ações, setores e desempenho de empresas no mercado financeir
 
 ### 💸 Dashboard Controle de Despesas  
 Gerenciamento pessoal de despesas por categoria, período e forma de pagamento.  
-🔗 [Ver projeto](./Dashboard_ControleDespesas)  
+🔗 [Ver projeto](https://github.com/lumandrade/potfolio-PowerBI/tree/main/Portfolio_BI/Dashboard_ControleDespesas)  
 🛠️ Tecnologias: Power BI, Power Query
 
 ---
