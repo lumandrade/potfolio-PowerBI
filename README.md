@@ -80,4 +80,4 @@ Cada pasta contém:
 ---
 
 📧 Contato: andradeluma12@gmail.com  
-🔗 [Voltar ao portfólio principal](https://github.com/lumandrade/portfolio-luma)
+🔗 [Voltar ao portfólio principal](https://github.com/lumandrade/meu-portfolio)
